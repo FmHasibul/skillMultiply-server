@@ -14,10 +14,10 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-app.get('/course/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id)
-    const course = courses.find(course.id == id)
+    console.log(id);
+    const course = courses.find(SC => SC.id == id);
     res.send(course)
 })
 
