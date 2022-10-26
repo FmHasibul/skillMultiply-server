@@ -1,38 +1,70 @@
 [
     {
         "id": 1,
-        "name": "C++ (C plus plus)",
-        "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
-        "total": 8
+        "name": "HTML AND CSS",
+        "title":"Besic to advance HTML and CSS course",
+        "intro":"HTML and CSS are the beginning of everything you need to know to make your first web page!",
+        "logo": "https://cdn.pixabay.com/photo/2018/08/12/13/54/code-3600810_960_720.png",
+        "details": "You should learn the basics of HTML before attempting any CSS. We recommend that you work through our Introduction to HTML module first.Once you understand the fundamentals of HTML, we recommend that you learn further HTML and CSS at the same time, moving back and forth between the two topics. This is because HTML is far more interesting and much more fun to learn when you apply CSS, and you can't learn CSS without knowing HTML.Before starting this topic, you should also be familiar with using computers and using the web passively (i.e., just looking at it, consuming the content). You should have a basic work environment set up, as detailed in Installing basic software, and understand how to create and manage files, as detailed in Dealing with files — both of which are parts of our Getting started with the web complete beginner's module.It is also recommended that you work through Getting started with the web before proceeding with this topic, especially if you are completely new to web development. However, much of what is covered in its CSS basics article is also covered in our CSS first steps module, albeit in a lot more detail.",
+        "ratings": 5,
+        "learner":2211, 
+        "instructor":"Hasan"
     },
     {
         "id": 2,
-        "name": "Java",
-        "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-        "total": 9
+        "name": "JavaScript",
+        "title":"JavaScript from beginner to expert ",
+        "intro":"Utilize our Java tutorial to learn the basics of Java objects, in this introductory course.",
+        "logo": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png",
+        "details": "This is the most complete JavaScript course . It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+        "ratings": 4.5,
+        "learner":1341,
+        "instructor":"Sourav"
     },
     {
         "id": 3,
-        "name": "JavaScript",
-        "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-        "total": 9
+        "name": "Java",
+        "title":"Beginner Friendly Java basic course",
+        "intro":"Utilize our Java tutorial to learn the basics of Java objects, in this introductory course.",
+        "logo": "https://cdn.pixabay.com/photo/2014/04/03/11/08/tea-311844_960_720.png",
+        "details": "This Java online course with a certificate is a good start for beginners who want to learn the basics of Java. You will first get briefly introduced to the Java Programming language, followed by information on Java IDE installation. You will go through different concepts like variables, data types, operators, arrays, flow control statements, and functions with appropriate code examples.You will also have the opportunity to get started with the first Java program in detail and step into the initial stage of Java programming. Enroll in this free Java online course, complete the quiz, and gain a free certificate of course completion.Interested in learning advanced software skills? Great Learning offers top-class Software Development Courses. Enroll in the paid programs of your choice and earn highly valued certificates.",
+        "ratings": 4.8,
+        "learner":331,
+        "instructor":"Alex"
     },
     {
         "id": 4,
         "name": "Python",
-        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-        "total": 8
+        "title": "Beginner to Advance python learning course",
+        "intro": "It's The Complete Python Programming Course, which will teach your",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png?20220821155029",
+        "details": "If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!",
+        "ratings": 4,
+        "learner":101,
+        "instructor":"Rabby"
     },
     {
         "id": 5,
-        "name": "Ruby",
-        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-        "total": 11
+        "name": "Swift",
+        "title":"Swift Fundamentals",
+        "intro":" This course serves as a firm foundation in Swift, including core syntax, best practices, working with data, and more.",
+        "logo": "https://assets.stickpng.com/images/58482ce4cef1014c0b5e4a4c.png",
+        "details": "At the core of developing for any Apple platform iOS, macOS, tvOS, or watchOS - is a thorough knowledge of Swift. In this course, Swift Fundamentals, you will learn to be comfortable and competent in this concise and powerful language. You will learn how this language works with data, move beyond the basics of control flow into closures and extensions, and you'll finally learn how to adopt the mindset of protocol-oriented programming, to tap into the huge amount of functionality that already exists in the Swift world. When you're finished with this course, you will have a foundational knowledge of Swift that will help you as you move forward to developing apps on iPhone, iPad, or Mac.",
+        "ratings": 3.9,
+        "learner":95,
+        "instructor":"Rahul"
+
     },
     {
         "id": 6,
-        "name": "Git",
-        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-        "total": 11
+        "name": "C++",
+        "title":"Best beginner friendly C++ course of  you can find.",
+        "intro":" This course will help you learn C++ basics and give you experience with computer memory.",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+        "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+        "ratings": 4.7,
+        "learner":511,
+        "instructor":"Hasib"
+
     }
 ]
